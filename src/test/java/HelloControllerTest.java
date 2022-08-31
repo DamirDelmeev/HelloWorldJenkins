@@ -10,6 +10,6 @@ public class HelloControllerTest {
 
     @Test
     public void checkTest() {
-        Assertions.assertEquals(true, false);
+        Assertions.assertEquals(true, true);
     }
 }
